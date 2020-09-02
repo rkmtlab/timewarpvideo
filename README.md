@@ -8,7 +8,7 @@ $ python timewarp.py
 
 before:
 
-<video controls>
+<video width=640 height=320 controls>
 <source src="tennis.mp4" type="video/mp4">
 </video>
 
