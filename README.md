@@ -8,10 +8,15 @@ $ python timewarp.py
 
 before:
 
-![](tennis.mp4)
+<video controls>
+<source src="tennis.mp4" type="video/mp4">
+</video>
 
 after:
 
-![](out.mp4)
+<video controls>
+<source src="out.mp4" type="video/mp4">
+</video>
+
 
 
